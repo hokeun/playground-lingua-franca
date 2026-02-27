@@ -1,3 +1,5 @@
+This is a test
+
 [![CI](https://github.com/lf-lang/examples-lingua-franca/actions/workflows/ci.yml/badge.svg)](https://github.com/lf-lang/examples-lingua-franca/actions/workflows/ci.yml)
 
 ## 🛝 Lingua Franca Playground
